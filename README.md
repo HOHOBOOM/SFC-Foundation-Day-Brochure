@@ -8,6 +8,6 @@ Moible brochure image link for promoting the foundation day of SFC
     <title>신한금융그룹 창립 기념 브로셔</title>
 </head>
 <body>
-    <img src="슬라이드4.jpg" alt="신한금융그룹 창립 기념 브로셔" style="width:100%; height:auto;">
+    <img src="슬라이드4.png" alt="신한금융그룹 창립 기념 브로셔" style="width:100%; height:auto;">
 </body>
 </html>
